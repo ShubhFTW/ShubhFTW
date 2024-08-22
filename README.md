@@ -1,16 +1,16 @@
-## Hi there 👋
+## Namaste 👋
 
-<!--
-**ShubhFTW/ShubhFTW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🏫 About Me
+- 🔭 Currently working on software engineering project for capstone
+- 🌱 Currently learning pentesting on HTB
+- 👯 Looking to collaborate with bug bounty researchers
 
-Here are some ideas to get you started:
+### 🌟 Highlighted Project
+ - ️‍🔥 Created a full stack website for event RSVPs using HTML, CSS JavaScript, Node, MongoDB and MongoAtlas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- 💻 Be OSCP Certified by Summer 2025
+- 📚 Studying and Pwning boxes on HTB daily
+
+### 📫 Let's Connect!
+- **LinkedIn: **https://www.linkedin.com/in/shubh-patel-87b5071b1/
