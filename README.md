@@ -10,7 +10,7 @@
 
 ### 🎯 Goals
 - 💻 Be OSCP Certified by Summer 2025
-- 📚 Studying and Pwning boxes on HTB daily
+- 📚 Study and Pwn boxed on HTB daily
 
 ### 📫 Let's Connect!
-- **LinkedIn: **https://www.linkedin.com/in/shubh-patel-87b5071b1/
+- **LinkedIn: ** https://www.linkedin.com/in/shubh-patel-87b5071b1/
